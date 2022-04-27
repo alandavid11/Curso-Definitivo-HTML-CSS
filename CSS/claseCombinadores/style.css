@@ -1,0 +1,11 @@
+/* h2 + p{ //hermano adyacente o cercano
+    color: red;
+} */
+
+/* h2~ p{ // hermano general
+    color: red;
+} */
+
+div  p{
+    color: red;
+}
